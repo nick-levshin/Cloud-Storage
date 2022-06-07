@@ -1,0 +1,7 @@
+{
+  "serverPort": 5000,
+  "dbUrl": "mongodb+srv://nick-levshin:228322@cloud.acml8.mongodb.net/?retryWrites=true&w=majority",
+  "secretKey": "vishenki",
+  "filePath": "/home/nick-levshin/Programming/storage/server/files",
+  "staticPath": "/home/nick-levshin/Programming/storage/server/static"
+}
